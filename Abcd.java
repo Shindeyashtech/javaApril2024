@@ -6,7 +6,7 @@ class B  extends A  {
 String b  ="B";
 }
 class C extends B {
-String c  ="C";
+String c  ="C ";
 }
 class D extends A  {
 String d  ="D";
